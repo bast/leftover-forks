@@ -169,5 +169,3 @@ if len(leftover_forks) == 0:
 else:
     for fork in leftover_forks:
         print(f"- {fork}")
-
-print("\n\n[About this project](about.md)")
